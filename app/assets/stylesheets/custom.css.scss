@@ -38,6 +38,18 @@ body {
 	p { font-size: 18px;}
 }
 
+.jumbotron {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #f9f9f9;
+  text-align: center;
+  background-size: cover;
+  background-image: url('banner-02.jpg');
+  h1,h2 {
+  	font-family: guardian-egypt, georgia, serif;
+  }
+}
 .caption {
 	h3 {
 		font-size: 17px;
